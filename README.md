@@ -572,13 +572,13 @@ Output:
 
 具体参考：[xmind\_testcase\_demo.json](https://github.com/maiyajj/xmind2testcasezen/blob/master/docs/xmind_testcase_demo.json)
 
-### [四、自动化发布：一键打 Tag 并上传至 PYPI](https://github.com/maiyajj/xmind2testcasezen/tree/master#%E5%9B%9B%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8F%91%E5%B8%83%E4%B8%80%E9%94%AE%E6%89%93-tag-%E5%B9%B6%E4%B8%8A%E4%BC%A0%E8%87%B3-pypi)
+### 九、自动化发布：一键打 Tag 并上传至 PYPI
 
 每次在 \_\_ about \_\_.py 更新版本号后，运行以下命令，实现自动化更新打包上传至 [PYPI](https://pypi.org/) ，同时根据其版本号自动打 Tag 并推送到仓库：
 
 [![upload_pypi](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/pypi_upload.png)](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/pypi_upload.png)
 
-### [五、CHANGELOG](https://github.com/maiyajj/xmind2testcasezen/tree/master#%E4%BA%94changelog)
+### 十、CHANGELOG
 
 ```
 v1.0.0
@@ -612,7 +612,7 @@ v1.6.0
 备注：XMind2TestcaseZen针对XMind经典系列版本，同时也支持XMind Zen版本！
 ```
 
-### [六、致谢](https://github.com/maiyajj/xmind2testcasezen/tree/master#%E5%85%AD%E8%87%B4%E8%B0%A2)
+### 十一、致谢
 
 **XMind2TestCaseZen** 工具的产生，受益于以下四个开源项目，并在此基础上扩展、优化，受益匪浅，感恩！
 
