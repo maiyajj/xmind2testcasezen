@@ -17,7 +17,7 @@
 
 ### 2.1 用例模板
 
-[新的用例模板](https://github.com/maiyajj/xmind2testcasezen/blob/master/webtool/static/guide/XMind%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E6%A8%A1%E6%9D%BF.xmind)[![xmind_testcase_demo](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/xmind_testcase_demo.png)](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/xmind_testcase_demo.png)
+[新的用例模板](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/XMind%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E6%A8%A1%E6%9D%BF.xmind)[![xmind_testcase_demo](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/xmind_testcase_demo.png)](https://raw.githubusercontent.com/maiyajj/xmind2testcasezen/master/webtool/static/guide/xmind_testcase_demo.png)
 
 标签（label）：**测试用例**、**执行步骤、预期结果**、**前置条件**、**优先级**、**优先级**标签（如：P1）<br />标记（marker）：优先级标记，label优先级更高<br />备注：summary。测试用例节点才会被解析。
 
